@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#clicker {
+    border: 1px solid green;
+    width: 20%;
+}
